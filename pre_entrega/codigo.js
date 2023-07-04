@@ -58,5 +58,5 @@ while(producto!=0){
 }
 
 alert("Gasto total 💲 "+gastoTotal)
-alert("📋Ingrese a consola para ver el resumen de compra...Gracias📋")
+alert("📋Ingrese a consola para ver el resumen de compra...Gracias")
 console.log("⛔RESUMEN DE COMPRA⛔\n--------------------\n"+coca+"--> Coca cola\n"+speedCh+"--> Speed Chico\n"+SpeedGde+"--> Speed Grande\n"+sprite+"--> Sprite\n"+vodka+"--> Vodka\n"+fernet+"--> Fernet\n"+gancia+"--> Gancia\n--------------------\nGasto total 💲 "+gastoTotal)
